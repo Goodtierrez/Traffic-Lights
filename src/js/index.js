@@ -2,6 +2,8 @@
 import React from "react";
 import ReactDOM from "react-dom";
 
+import TrafficLIghts from "./component/TrafficLights";
+
 // include your styles into the webpack bundle
 import "../styles/index.css";
 
